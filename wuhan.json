@@ -1,0 +1,1692 @@
+{
+    "1": {
+        "origin": "imported",
+        "confirmed_date": "1/21",
+        "age": "50",
+        "gender": "female",
+        "location": null,
+        "nationality": "台灣",
+        "breakout": "taishang",
+        "description": "首例境外移入確診病例，為居住南部50多歲女性，於大陸武漢工作由武漢搭機入境，因有發燒、咳嗽、呼吸急促等症狀，由機場檢疫人員安排後送就醫，X光檢查顯示有肺炎，檢驗確認為新型冠狀病毒陽性。女台商2/6 康復出院"
+    },
+    "2": {
+        "origin": "imported",
+        "confirmed_date": "1/24",
+        "age": "50",
+        "gender": "female",
+        "location": null,
+        "nationality": "中國",
+        "breakout": "luke",
+        "description": "陸客團女遊客有武漢旅遊或居住史，於1月21日入境，23日因發燒就醫，經過快篩檢驗後，確診為武漢肺炎。女陸客"
+    },
+    "3": {
+        "origin": "imported",
+        "confirmed_date": "1/24",
+        "age": "50",
+        "gender": null,
+        "location": "高雄22日就醫時並未交代活動史，直到23日到耳鼻喉科就醫時以耳朵不適時才說明他有武漢",
+        "nationality": "台灣",
+        "breakout": "taishang",
+        "description": "21日自武漢搭機返台並從高雄入境，入境前即有發燒及上呼吸道等症狀，並在大陸就醫服藥。回到高雄22日就醫時並未交代活動史，直到23日到耳鼻喉科就醫時以耳朵不適時才說明他有武漢活動史等，當天被通報疑似武漢肺炎個案，直到24日疾管署確診為武漢肺炎台商"
+    },
+    "4": {
+        "origin": "imported",
+        "confirmed_date": "1/26",
+        "age": "50",
+        "gender": "female",
+        "location": "15日去武漢",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "1月13日至15日去武漢旅遊，未曾去過華南海鮮市場，也未出現明顯發燒症狀，該病例22日開始咳嗽，25日咳嗽症狀加劇，並自廣州入境。機上全程配戴口罩，並在填寫入境健康聲明卡時，主動通知機場檢疫人員，由機場後送負壓隔離病房，26日確診。北部女性2/23康復北部"
+    },
+    "5": {
+        "origin": "imported",
+        "confirmed_date": "1/27",
+        "age": "50",
+        "gender": "female",
+        "location": "年10月下旬到中國大陸武漢工作，沒有華南海鮮市場",
+        "nationality": null,
+        "breakout": "work",
+        "description": "去年10月下旬到中國大陸武漢工作，沒有華南海鮮市場活動史以及禽畜接觸史，1月20日返台，25日出現發燒、肌肉痠痛症狀就醫，院方隨即通報並收治隔離病房，27日確診。目前病情穩定。中部女性與案例1同機返台，座位差20多排，研判早在武漢就已感染，爾後其丈夫也受感染(案例8)中部"
+    },
+    "6": {
+        "origin": "imported",
+        "confirmed_date": "1/28",
+        "age": "70",
+        "gender": "female",
+        "location": null,
+        "nationality": "中國",
+        "breakout": "luke",
+        "description": "在23日武漢封城前一天入境。22日抵台時無症狀，25日因開始發燒就醫，醫院警覺性高，發現其來自武漢，就馬上通報。目前病情穩定。女陸客"
+    },
+    "7": {
+        "origin": "domestic",
+        "confirmed_date": "1/28",
+        "age": "70",
+        "gender": "female",
+        "location": null,
+        "nationality": "中國",
+        "breakout": "contact",
+        "description": "與第6例來自同一個三人同行的自由行遊客。目前病情穩定。另外，同行的一名陸客有發燒症狀，已匡列為接觸者，正在隔離檢驗中，三人都沒返回中國大陸，待在台灣境內救治及追蹤。女陸客"
+    },
+    "8": {
+        "origin": "domestic",
+        "confirmed_date": "1/28",
+        "age": "50",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "為先前確診第5例境外移入個案丈夫，於1月26日出現咳嗽症狀就醫，經檢驗於28日確診，研判為家戶感染。中部男性1.為案例5丈夫，台灣首例本土傳染病例。2.2/27康復中部"
+    },
+    "9": {
+        "origin": "imported",
+        "confirmed_date": "1/30",
+        "age": "40",
+        "gender": "female",
+        "location": "醫院就醫",
+        "nationality": null,
+        "breakout": "taishang",
+        "description": "該名女性被平時在武漢工作的丈夫傳染，該台商在回台時有咳嗽、流鼻水的症狀，但因不符當時的通報條件而未進行檢驗，推測可能是漏網病例。確診的40多歲女性在27日有咳嗽等感冒症狀，隨後前往醫院就醫，於30日確診為武漢肺炎，研判是家庭群聚感染，為台灣第9例個案，也是第2例本土病例。中部女性中部"
+    },
+    "10": {
+        "origin": "domestic",
+        "confirmed_date": "1/31",
+        "age": "40",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "為第9例個案丈夫，原列為接觸者，31日檢出新型冠狀病毒陽性確診，研判第9例個案是遭本個案感染，為一起境外移入個案導致本土家庭群聚事件。中部男性為案例9丈夫，2/13康復中部"
+    },
+    "11": {
+        "origin": "imported",
+        "confirmed_date": "2/4",
+        "age": "50",
+        "gender": null,
+        "location": null,
+        "nationality": "台灣",
+        "breakout": "taishang",
+        "description": "3日晚間首批武漢包機台商回台，有3人送隔離病房，其中一名確診武漢肺炎。武漢台商1.武漢包機2.2/27康復"
+    },
+    "12": {
+        "origin": "imported",
+        "confirmed_date": "2/6",
+        "age": "40",
+        "gender": "male",
+        "location": "武漢",
+        "nationality": null,
+        "breakout": "work",
+        "description": "12月至武漢工作，1月17日前往遼寧，2月2日返台，3日出現發燒、咳嗽、頭痛等症狀，4日就醫。male2/23康復"
+    },
+    "13": {
+        "origin": "imported",
+        "confirmed_date": "2/6",
+        "age": "20",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "reside",
+        "description": "長住武漢，1月21日自武漢經深圳返台，2月1日出現咳嗽有痰及胸悶症狀，4日就醫。female"
+    },
+    "14": {
+        "origin": "imported",
+        "confirmed_date": "2/6",
+        "age": "50",
+        "gender": "male",
+        "location": "義大利",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "1月22日自香港轉機至義大利旅遊，2月1日自香港轉機返台。1月26日出現咳嗽情形，返國入境時有發燒症狀，當日診斷為感冒，因症狀未改善，2月4日再次就醫被查出有肺炎情形。北部男性北部"
+    },
+    "15": {
+        "origin": "imported",
+        "confirmed_date": "2/6",
+        "age": "50",
+        "gender": "female",
+        "location": "義大利",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "1月22日自香港轉機至義大利旅遊，2月1日自香港轉機返台。1月28日出現咳嗽情形，不過返國入境時無發燒症狀，2月3日就醫時診斷為一般感冒，2月4日檢驗出感染新型冠狀病毒。北部女性北部"
+    },
+    "16": {
+        "origin": "imported",
+        "confirmed_date": "2/6",
+        "age": "40",
+        "gender": "female",
+        "location": "24日至澳門",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "1月21日至24日至澳門旅遊，2月1日出現發燒、寒顫、喉嚨痛、流鼻水、走路會喘等症狀，2月3日就醫因不符通報條件故返家，但症狀持續，5日再次就醫檢驗確診感染新型冠狀病毒。female"
+    },
+    "17": {
+        "origin": "imported",
+        "confirmed_date": "2/8",
+        "age": "20",
+        "gender": "male",
+        "location": "31日隨父母同至義大利旅遊，2月1日經香港轉機返台，1月27日在義大利",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "1月22日至31日隨父母同至義大利旅遊，2月1日經香港轉機返台，1月27日在義大利旅遊時出現咳嗽症狀，昨日安排採檢並住院隔離，於今日檢驗確診。male1.案例14、15夫婦確診病例之兒子2.2/27康復"
+    },
+    "18": {
+        "origin": "domestic",
+        "confirmed_date": "2/9",
+        "age": "20",
+        "gender": "male",
+        "location": "義大利",
+        "nationality": null,
+        "breakout": "family",
+        "description": "患者為2月6日公布北部50多歲夫婦確診病例的另一名兒子，也是與父母到義大利旅遊於香港轉機時，疑在長程飛機上感染，一家四口都中鏢。male1.首例「無症狀高病毒」感染者2.案例14、15夫婦之兒子"
+    },
+    "19": {
+        "origin": "domestic",
+        "confirmed_date": "2/16",
+        "age": "60",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "unknown",
+        "description": "2月3日因呼吸急促赴醫院就醫，診斷為肺炎。當日收治於負壓加護病房治療，已於2月15日因肺炎合併敗血症死亡。male1.首例死亡個案"
+    },
+    "20": {
+        "origin": "domestic",
+        "confirmed_date": "2/16",
+        "age": "50",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "為第19例個案的弟弟，2月15日進行採檢後確診，目前個案無症狀，收治於負壓隔離病房。male"
+    },
+    "21": {
+        "origin": "domestic",
+        "confirmed_date": "2/17",
+        "age": "80",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "為第19例及第20例的親人。female"
+    },
+    "22": {
+        "origin": "domestic",
+        "confirmed_date": "2/17",
+        "age": "30",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "為第19例及第20例的親人。male"
+    },
+    "23": {
+        "origin": "domestic",
+        "confirmed_date": "2/19",
+        "age": "60",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "為第19例及第20例的親人。female"
+    },
+    "24": {
+        "origin": "domestic",
+        "confirmed_date": "2/19",
+        "age": "60",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "unknown",
+        "description": "近2年無出國史，1月22日出現發燒、咳嗽等症狀，22日至29日四度至診所就醫，29日晚間診斷為肺炎，30日收治住院，2月10日轉入加護病房，2月17日檢驗結果為陰性轉收至負壓隔離病房，2月19日確診。北部女性北部"
+    },
+    "25": {
+        "origin": "domestic",
+        "confirmed_date": "2/21",
+        "age": "20",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "為第24例外孫女。female"
+    },
+    "26": {
+        "origin": "domestic",
+        "confirmed_date": "2/21",
+        "age": "40",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "為第24例小女兒。female"
+    },
+    "27": {
+        "origin": "domestic",
+        "confirmed_date": "2/23",
+        "age": "80",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "為28例父親。相對情況比較嚴重，加上年紀大，及有高血壓、糖尿病、洗腎慢性疾病，加護病房照護中。北部男性第二例死亡個案北部"
+    },
+    "28": {
+        "origin": "domestic",
+        "confirmed_date": "2/23",
+        "age": "50",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "為27例兒子。兩側肺炎，在隔離病房。北部男性北部"
+    },
+    "29": {
+        "origin": "domestic",
+        "confirmed_date": "2/24",
+        "age": "40",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "案27之小兒子，目前情況良好，於醫院單獨病房隔離治療中。因工作關係頻繁往返中國，不排除為感染源。北部男性北部"
+    },
+    "30": {
+        "origin": "domestic",
+        "confirmed_date": "2/24",
+        "age": "70",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "案27之妻子，目前情況良好，於醫院單獨病房隔離治療中。北部女性北部"
+    },
+    "31": {
+        "origin": "domestic",
+        "confirmed_date": "2/25",
+        "age": "11",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "案27之孫，一直無症狀。北部男童是目前年紀最小的個案。北部"
+    },
+    "32": {
+        "origin": "domestic",
+        "confirmed_date": "2/26",
+        "age": "30",
+        "gender": "female",
+        "location": null,
+        "nationality": "外籍",
+        "breakout": "hospital",
+        "description": "案27在2月11日至16日住院期間之30多歲女性外籍看護。女外籍看護"
+    },
+    "33": {
+        "origin": "imported",
+        "confirmed_date": "2/28",
+        "age": "30",
+        "gender": "male",
+        "location": "22日與另外21人跟團至日本大阪",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "2月17日至22日與另外21人跟團至日本大阪旅遊，返國後於25日出現咳嗽、喉嚨癢，26日就醫採檢後返家，28日確診，研判於日本感染可能性高，為境外移入個案。北部男性北部"
+    },
+    "34": {
+        "origin": "domestic",
+        "confirmed_date": "2/28",
+        "age": "50",
+        "gender": "female",
+        "location": "肺炎情形。平時待在家中未外出，無國外",
+        "nationality": null,
+        "breakout": "unknown",
+        "description": "2月14日因低血糖、全身倦怠就醫並收治住院，當時無呼吸道症狀，21日出現咳嗽、喉嚨痛及發燒，26日診斷有肺炎情形。平時待在家中未外出，無國外旅遊史，研判於國內感染。female"
+    },
+    "35": {
+        "origin": "domestic",
+        "confirmed_date": "2/29",
+        "age": null,
+        "gender": null,
+        "location": null,
+        "nationality": null,
+        "breakout": "hospital",
+        "description": "為案34的醫院接觸者。清潔人員"
+    },
+    "36": {
+        "origin": "domestic",
+        "confirmed_date": "2/29",
+        "age": null,
+        "gender": null,
+        "location": null,
+        "nationality": null,
+        "breakout": "hospital",
+        "description": "為案34的醫院接觸者。護理人員"
+    },
+    "37": {
+        "origin": "domestic",
+        "confirmed_date": "2/29",
+        "age": null,
+        "gender": null,
+        "location": null,
+        "nationality": null,
+        "breakout": "hospital",
+        "description": "為案34的醫院接觸者。護理人員"
+    },
+    "38": {
+        "origin": "domestic",
+        "confirmed_date": "2/29",
+        "age": null,
+        "gender": null,
+        "location": null,
+        "nationality": null,
+        "breakout": "hospital",
+        "description": "為案34的醫院接觸者。護理人員"
+    },
+    "39": {
+        "origin": "imported",
+        "confirmed_date": "2/29",
+        "age": "60",
+        "gender": "female",
+        "location": "2月21日跟團至中東",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "1月29至2月21日跟團至中東旅遊，2月20日在埃及出現喉嚨痛、咳嗽，21日返國後至診所就醫，26日症狀加劇，28日通報採檢，為首例中東境外移入病例。北部女性北部"
+    },
+    "40": {
+        "origin": "imported",
+        "confirmed_date": "3/1",
+        "age": "70",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "travel",
+        "description": "先前鑽石公主號經日方檢驗陽性後住院者，26日返台直接安排入住負壓隔離病房採檢，1日確診北部女性北部"
+    },
+    "41": {
+        "origin": "domestic",
+        "confirmed_date": "3/2",
+        "age": null,
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "為案34的女兒。female"
+    },
+    "42": {
+        "origin": "domestic",
+        "confirmed_date": "3/3",
+        "age": "50",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "hospital",
+        "description": "案34確診前同病房、不同病室已出院病人的陪病家屬。female"
+    },
+    "43": {
+        "origin": "domestic",
+        "confirmed_date": "3/5",
+        "age": "50",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "contact",
+        "description": "案39（境外移入個案）確診前的接觸者北部女性北部"
+    },
+    "44": {
+        "origin": "imported",
+        "confirmed_date": "3/5",
+        "age": "30",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "go-abroad",
+        "description": "菲律賓境外移入個案北部男性北部"
+    },
+    "45": {
+        "origin": "domestic",
+        "confirmed_date": "3/6",
+        "age": "50",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "hospital",
+        "description": "和案34同病房不同病室female"
+    },
+    "46": {
+        "origin": "domestic",
+        "confirmed_date": "3/10",
+        "age": "20",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "為案34和案41的家人北部男性北部"
+    },
+    "47": {
+        "origin": "imported",
+        "confirmed_date": "3/10",
+        "age": "30",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "go-abroad",
+        "description": "荷蘭境外移入返台南部男性南部"
+    },
+    "48": {
+        "origin": "imported",
+        "confirmed_date": "3/11",
+        "age": "30",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "go-abroad",
+        "description": "英國境外移入返台北部女性北部"
+    },
+    "49": {
+        "origin": "imported",
+        "confirmed_date": "3/12",
+        "age": "40",
+        "gender": "female",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "2月21日自台灣經英國轉機至愛爾蘭旅遊，3月4日再從愛爾蘭搭機至比利時旅遊，3月7日自比利時經土耳其轉機，3月8日返台。入境時無症狀，返家後出現頭痛、倦怠及喉嚨痛症狀，3月10日至醫院就醫並採檢通報，3月12日確診。北部女性北部"
+    },
+    "50": {
+        "origin": "imported",
+        "confirmed_date": "3/13",
+        "age": "50",
+        "gender": "male",
+        "location": null,
+        "nationality": "美籍",
+        "breakout": "work",
+        "description": "獨自在台工作，2月24日曾接待4名來台的美國友人(均於2月26日離境)。案50於2月27日、3月4日及7日陸續出現畏寒、咳嗽及發燒症狀，7日就醫後收治住院，10日由醫院採檢通報，於3月13日確診，目前於負壓隔離病房治療。中部美籍男性中部"
+    },
+    "51": {
+        "origin": "imported",
+        "confirmed_date": "3/14",
+        "age": "30",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "go-abroad",
+        "description": "3月2日至6日曾至奧地利，9日自荷蘭來台，10日入境，11日出現症狀就醫。荷蘭籍男性"
+    },
+    "52": {
+        "origin": "imported",
+        "confirmed_date": "3/14",
+        "age": "30",
+        "gender": "male",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "go-abroad",
+        "description": "2月28日自台灣經土耳其轉機至瑞士，3月7日再自法國至瑞士搭機，經土耳其轉機返國，8日入境，12日晚間出現症狀，目前收治負壓隔離病房。北部男性北部"
+    },
+    "53": {
+        "origin": "imported",
+        "confirmed_date": "3/14",
+        "age": "30",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "work",
+        "description": "2月22日至3月6日赴德國慕尼黑、紐倫堡出差，返國後於3月11日出現症狀，目前收治負壓隔離病房。北部男性北部"
+    },
+    "54": {
+        "origin": "imported",
+        "confirmed_date": "3/15",
+        "age": "30",
+        "gender": "male",
+        "location": "3月1日曾至泰國",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "2月28日至3月1日曾至泰國旅遊，返國後又於3月5日至8日與1名友人至日本北海道，返國後於11日出現流鼻水症狀，12日因全身倦怠及頭痛等症狀就醫並採檢通報，於15日確診。北部男性北部"
+    },
+    "55": {
+        "origin": "imported",
+        "confirmed_date": "3/15",
+        "age": "50",
+        "gender": "male",
+        "location": "12日參加埃及團體",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月3日至12日參加埃及團體旅遊，3月12日返國後因全身倦怠與肌肉痠痛就醫，經檢測有發燒情形，由醫院採檢通報，於今日確診。北部男性北部"
+    },
+    "56": {
+        "origin": "imported",
+        "confirmed_date": "3/15",
+        "age": "40",
+        "gender": "male",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月4日與案57一起至土耳其旅行之團員(曾於杜拜轉機)，皆於13日返國。13日入境後因喉嚨癢、腹瀉、自覺發熱等症狀就醫，經醫院採檢後通報，於15日確診北部男性北部"
+    },
+    "57": {
+        "origin": "imported",
+        "confirmed_date": "3/15",
+        "age": "70",
+        "gender": "female",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月4日與案56一起至土耳其旅行之團員(曾於杜拜轉機)，13日返國後因發燒就醫，於15日確診。北部女性北部"
+    },
+    "58": {
+        "origin": "imported",
+        "confirmed_date": "3/15",
+        "age": "20",
+        "gender": "female",
+        "location": "西班牙",
+        "nationality": null,
+        "breakout": "study",
+        "description": "今年1月至西班牙就學，3月12日曾出現體溫偏高，13日返國時，經發燒篩檢站採檢送驗，15日確診。北部女性北部"
+    },
+    "59": {
+        "origin": "imported",
+        "confirmed_date": "3/15",
+        "age": "10",
+        "gender": "male",
+        "location": "希臘",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "一月與家人同遊希臘，3月5日返台，12日出現喉嚨痛情形、13日因咳嗽、流鼻水及頭痛等症狀就醫，15日確診。北部男性北部"
+    },
+    "60": {
+        "origin": "imported",
+        "confirmed_date": "3/16",
+        "age": "20",
+        "gender": "female",
+        "location": "3月11日獨自赴義大利、希臘、德國",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "2月9日至3月11日獨自赴義大利、希臘、德國旅遊，12日入境，14日出現發燒、畏寒及倦怠就醫，經通報檢驗，於今日確診。中部女性中部"
+    },
+    "61": {
+        "origin": "imported",
+        "confirmed_date": "3/16",
+        "age": "50",
+        "gender": "female",
+        "location": "14日與另1名家人參加奧地利、捷克團體",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月5日至14日與另1名家人參加奧地利、捷克團體旅遊，14日入境時因發燒被檢疫站攔檢送驗，於今日確診，目前收治負壓隔離病房。南部女性南部"
+    },
+    "62": {
+        "origin": "imported",
+        "confirmed_date": "3/16",
+        "age": "60",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "visit",
+        "description": "3月7日至14日與另1名家人至菲律賓探親，12日於菲律賓當地出現發燒、咳嗽、肌肉痠痛、後眼窩痛症狀，14日入境後由家人送至醫院就醫並採檢送驗，於今日確診。北部女性北部"
+    },
+    "63": {
+        "origin": "imported",
+        "confirmed_date": "3/16",
+        "age": "50",
+        "gender": "male",
+        "location": "12日至埃及",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "為昨日公布案55於3月3日至12日至埃及旅遊之同團團員，案63於3月13日晚間因咳嗽有痰、流鼻水、寒顫等症狀至醫院就醫後通報送驗，於今日確診。北部男性北部"
+    },
+    "64": {
+        "origin": "imported",
+        "confirmed_date": "3/16",
+        "age": "20",
+        "gender": "male",
+        "location": "(2019)年8月底至西班牙",
+        "nationality": null,
+        "breakout": "study",
+        "description": "去(2019)年8月底至西班牙就學，由於就讀學校有確診個案，故與就讀同校的家人及同學一同返國，於3月12日入境。案64於14日出現畏寒、流鼻水及眼睛癢症狀，15日至醫院就醫並採檢通報，於今日確診。北部男性北部"
+    },
+    "65": {
+        "origin": "imported",
+        "confirmed_date": "3/16",
+        "age": "50",
+        "gender": "female",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月4日至13日土耳其(與案56、57同團)，分別於3月14日、15日發病，3月15日晚間由衛生單位通知前往醫院採檢通報，於今日確診。南部女性南部"
+    },
+    "66": {
+        "origin": "imported",
+        "confirmed_date": "3/16",
+        "age": "50",
+        "gender": "female",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月4日至13日土耳其(與案56、57同團)，分別於3月14日、15日發病，3月15日晚間由衛生單位通知前往醫院採檢通報，於今日確診。南部女性南部"
+    },
+    "67": {
+        "origin": "imported",
+        "confirmed_date": "3/16",
+        "age": "60",
+        "gender": "male",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月4日至13日土耳其(與案56、57同團)，分別於3月14日、15日發病，3月15日晚間由衛生單位通知前往醫院採檢通報，於今日確診。北部男性北部"
+    },
+    "68": {
+        "origin": "imported",
+        "confirmed_date": "3/17",
+        "age": null,
+        "gender": "female",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月4日至13日至土耳其旅遊(與案56、57及案65至67同團)，其中1人無症狀，由衛生單位安排就醫採檢，其他3人發病日介於3月7日至14日，經就醫採檢通報，均於今日確診。female"
+    },
+    "69": {
+        "origin": "imported",
+        "confirmed_date": "3/17",
+        "age": null,
+        "gender": "female",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月4日至13日至土耳其旅遊(與案56、57及案65至67同團)，其中1人無症狀，由衛生單位安排就醫採檢，其他3人發病日介於3月7日至14日，經就醫採檢通報，均於今日確診。female"
+    },
+    "70": {
+        "origin": "imported",
+        "confirmed_date": "3/17",
+        "age": null,
+        "gender": "male",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月4日至13日至土耳其旅遊(與案56、57及案65至67同團)，其中1人無症狀，由衛生單位安排就醫採檢，其他3人發病日介於3月7日至14日，經就醫採檢通報，均於今日確診。male"
+    },
+    "71": {
+        "origin": "imported",
+        "confirmed_date": "3/17",
+        "age": "60",
+        "gender": "male",
+        "location": "12日參加埃及團體",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月3日至12日參加埃及團體旅遊(與案55、63同團)，於3月13日起出現病症，3月15日安排就醫，經診斷有肺炎情形並採檢通報，於今日確診。北部男性北部"
+    },
+    "72": {
+        "origin": "imported",
+        "confirmed_date": "3/17",
+        "age": "70",
+        "gender": "female",
+        "location": "14日與家人(案61)參加奧地利、捷克團體",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月5日至14日與家人(案61)參加奧地利、捷克團體旅遊，3月15日出現發燒症狀且有肺炎情形，由醫院採檢通報，於今日確診。南部女性南部"
+    },
+    "73": {
+        "origin": "imported",
+        "confirmed_date": "3/17",
+        "age": null,
+        "gender": "male",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月4日至13日至土耳其旅遊(與案56、57及案65至67同團)，其中1人無症狀，由衛生單位安排就醫採檢，其他3人發病日介於3月7日至14日，經就醫採檢通報，均於今日確診。male"
+    },
+    "74": {
+        "origin": "imported",
+        "confirmed_date": "3/17",
+        "age": "30",
+        "gender": "male",
+        "location": "3月10日與7名親友至冰島自助旅遊，返國後於3月14日出現牙痛、全身倦怠症狀，15日就醫時因有國外",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "2月25日至3月10日與7名親友至冰島自助旅遊，返國後於3月14日出現牙痛、全身倦怠症狀，15日就醫時因有國外旅遊史由醫院採檢通報，於今日確診。南部男性南部"
+    },
+    "75": {
+        "origin": "imported",
+        "confirmed_date": "3/17",
+        "age": "20",
+        "gender": "male",
+        "location": "3月8日至德國",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "2月23日至3月8日至德國旅遊，3月8日返國後出現流鼻水症狀，11日自覺嗅覺喪失，13日至診所就醫，因症狀未改善又於16日至醫院就醫，經診斷有肺炎情形故採檢通報，於今日確診。南部男性南部"
+    },
+    "76": {
+        "origin": "imported",
+        "confirmed_date": "3/17",
+        "age": "30",
+        "gender": "female",
+        "location": "12日與2名友人至法國巴黎",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月1日至12日與2名友人至法國巴黎旅遊，12日起出現喉嚨痛症狀，15日出現流鼻水，16日就醫後採檢通報，於今日確診。北部女性北部"
+    },
+    "77": {
+        "origin": "imported",
+        "confirmed_date": "3/17",
+        "age": "60",
+        "gender": "female",
+        "location": "捷克",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "1月20日自台灣經杜拜轉機至捷克旅遊，並於3月7日自捷克搭機至美國紐約探親，16日入境。案77於3月10日在紐約當地出現發燒及腹瀉症狀，並於14日在當地就醫，16日返國後因有喉嚨癢及咳嗽症狀直接至醫院就醫後隨即採檢通報，於今日確診。北部女性北部"
+    },
+    "78": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "50",
+        "gender": "male",
+        "location": "3月16日去德國",
+        "nationality": null,
+        "breakout": "work",
+        "description": "3月6日至3月16日去德國工作，3月15出現咳嗽等病狀，3月16日就醫，於今日確診male"
+    },
+    "79": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "40",
+        "gender": "female",
+        "location": "3月14日曾去英國",
+        "nationality": null,
+        "breakout": "work",
+        "description": "3月9日至3月14日曾去英國工作，3月14日出現流鼻水等症狀，3月16日就醫，於今日確診。female"
+    },
+    "80": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "20",
+        "gender": "female",
+        "location": "3月12日曾去西班牙",
+        "nationality": null,
+        "breakout": "study",
+        "description": "2月3日至3月12日曾去西班牙就學，3月16日出現身體無力等病狀，3月17日就醫，於今日確診。female"
+    },
+    "81": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "50",
+        "gender": "female",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月4日至3月13日去土耳其參加團體旅遊，無症狀，3月16日經採檢通報，於今日確診。female"
+    },
+    "82": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "20",
+        "gender": "female",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月4日至3月13日去土耳其參加團體旅遊，3月11日出現喉嚨痛等病症，3月14、16日就醫，於今日確診。female"
+    },
+    "83": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "40",
+        "gender": "female",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月4日至3月13日去土耳其參加團體旅遊，無症狀，3月15日經採檢通報，於今日確診。female"
+    },
+    "84": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "20",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "travel",
+        "description": "從法國來的法國人，3月12日來台灣旅遊，初步了解有台灣友人陪同旅行，因行程中出現疑似症狀，3月16日就醫採檢確診。法國籍男子"
+    },
+    "85": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "30",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月5日至16日去紐約自助旅行，14日出現症狀，16日回國，入境時沒有被採檢。但她回家，馬上請人載她去醫院就醫並於醫院採檢，今確診。female"
+    },
+    "86": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "20",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "go-abroad",
+        "description": "1月23日至3月15日到紐約長島，12日發病，16日入境時因為咳嗽被採檢並確診。male"
+    },
+    "87": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "30",
+        "gender": "male",
+        "location": "義大利、英國、法國工作及",
+        "nationality": null,
+        "breakout": "work",
+        "description": "曾去義大利、英國、法國工作及旅遊，3月11日出現發燒、喉嚨痛等病症，3月16日到機場採檢，於今日確診。male"
+    },
+    "88": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "20",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "study",
+        "description": "2月14日至3月16日曾去西班牙研習，3月6日出現咳嗽、發燒等病症，3月16日到機場採檢，於今日確診。female"
+    },
+    "89": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "30",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "reside",
+        "description": "長居美國，3月14日就咳嗽，15日在返台飛機上開始忽冷忽熱，入境時因為體溫達38.4度而採檢確診。female"
+    },
+    "90": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "30",
+        "gender": "male",
+        "location": "3月16日曾去西班牙旅遊及",
+        "nationality": null,
+        "breakout": "work",
+        "description": "2月14日至3月16日曾去西班牙旅遊及工作，3月7日出現流鼻水、打噴嚏等症狀，3月16日到機場採檢，於今日確診。male"
+    },
+    "91": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "30",
+        "gender": "male",
+        "location": "法國、西班牙、英國",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "曾去法國、西班牙、英國旅遊，3月8日開始出現喉嚨痛、流鼻水等症狀，3月16日到機場採檢，於今日確診。male"
+    },
+    "92": {
+        "origin": "domestic",
+        "confirmed_date": "3/18",
+        "age": "20",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "contact",
+        "description": "為埃及團確診個案接觸者，無症狀，經接觸者採檢確診。male"
+    },
+    "93": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "30",
+        "gender": "female",
+        "location": "3月16日曾去卡達",
+        "nationality": null,
+        "breakout": "work",
+        "description": "3月10日至3月16日曾去卡達工作，3月13日出現背痛等病症，3月16日到機場採檢，於今日確診。female"
+    },
+    "94": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "30",
+        "gender": "male",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月4日至3月13日去土耳其參加團體旅遊，3月15日出現發燒症狀，3月15日就醫，於今日確診。male"
+    },
+    "95": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "20",
+        "gender": "female",
+        "location": "3月12日曾去印尼自助",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月6日至3月12日曾去印尼自助旅遊，3月10日開始有喉嚨痛、耳朵痛的情形，3月12日回台後，一直到14號都待在旅店，之後返家，3月16日就醫進行採檢後確診。female"
+    },
+    "96": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "20",
+        "gender": "female",
+        "location": "3月15日曾去英國",
+        "nationality": null,
+        "breakout": "study",
+        "description": "1月13日至3月15日曾去英國就學，3月7日出現發燒、咳嗽有痰等病症，3月16日到機場採檢，於今日確診。female"
+    },
+    "97": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "20",
+        "gender": "male",
+        "location": "3月15日曾去瑞士",
+        "nationality": null,
+        "breakout": "study",
+        "description": "2月11日至3月15日曾去瑞士就學，3月14日出現發燒、畏寒等病症，3月16日到機場採檢，於今日確診。male"
+    },
+    "98": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "20",
+        "gender": "female",
+        "location": "3月16日曾去法國",
+        "nationality": null,
+        "breakout": "study",
+        "description": "2月16日至3月16日曾去法國就學，3月13日出現發燒等病狀，3月16日到機場採檢，於今日確診female"
+    },
+    "99": {
+        "origin": "imported",
+        "confirmed_date": "3/18",
+        "age": "20",
+        "gender": "female",
+        "location": "3月16日曾到菲律賓",
+        "nationality": null,
+        "breakout": "work",
+        "description": "2月1日至3月16日曾到菲律賓工作，3月8日出現流鼻涕、腹瀉等病症，3月16日機場採檢，於今日確診female"
+    },
+    "100": {
+        "origin": "domestic",
+        "confirmed_date": "3/18",
+        "age": "20",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "unknown",
+        "description": "3月12日開始出現喉嚨痛、發燒、頭痛症狀，當天曾就醫，16日持續發燒、咳嗽、喘症狀，再次就醫，醫師診斷為一班感冒，17日仍未緩解且有呼吸困難症狀到急診就醫，於今日確診。female"
+    },
+    "101": {
+        "origin": "imported",
+        "confirmed_date": "3/19",
+        "age": "70",
+        "gender": "male",
+        "location": "12日至埃及",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月3日至12日至埃及旅遊（與案55、63、71同團），3月17日陸續出現發燒、流鼻水、肌肉痠痛症狀。male"
+    },
+    "102": {
+        "origin": "imported",
+        "confirmed_date": "3/19",
+        "age": "50",
+        "gender": "female",
+        "location": "3月11日與非同住家人至美國參加商務",
+        "nationality": null,
+        "breakout": "work",
+        "description": "2月29日至3月11日與非同住家人至美國參加商務活動，3月11日入境時有輕微咳嗽，16日自覺有發燒情形就醫並採檢通報。female"
+    },
+    "103": {
+        "origin": "domestic",
+        "confirmed_date": "3/19",
+        "age": "10",
+        "gender": "male",
+        "location": "醫院就醫並主動告知為案59同學",
+        "nationality": null,
+        "breakout": "school",
+        "description": "為案59（高中生）之同班男同學，與案59座位鄰近，3月15日早上出現喉嚨癢，當晚有發燒症狀，16日先行致電1922通知後，依指示前往醫院就醫並主動告知為案59同學，隨即由醫院安排採檢後住院隔離。male"
+    },
+    "104": {
+        "origin": "imported",
+        "confirmed_date": "3/19",
+        "age": "40",
+        "gender": "female",
+        "location": "3月14日跟團至奧地利、捷克",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月5日至3月14日跟團至奧地利、捷克旅遊（與案61、72同團）。3月16日出現咳嗽、流鼻水、胸悶等症狀，由衛生單位安排就醫採檢通報。female"
+    },
+    "105": {
+        "origin": "imported",
+        "confirmed_date": "3/19",
+        "age": "20",
+        "gender": "male",
+        "location": "法國",
+        "nationality": null,
+        "breakout": "study",
+        "description": "2019年12月24日獨自赴法國就學，今年3月17日返台，入境時因主動向檢疫人員通報喉嚨不適，機場檢疫站安排採檢通報後，由家人接送返家進行居家檢疫。male"
+    },
+    "106": {
+        "origin": "imported",
+        "confirmed_date": "3/19",
+        "age": "20",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "study",
+        "description": "1月5日至3月17日至西班牙遊學，3月12日出現喉嚨癢症狀，入境時主動向檢疫人員說明症狀，安排採檢通報後搭乘防疫計程車前往住所進行居家檢疫。male"
+    },
+    "107": {
+        "origin": "imported",
+        "confirmed_date": "3/19",
+        "age": "50",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "visit",
+        "description": "3月15日來台探親，入境後直接至地方政府特約防疫旅宿進行居家檢疫，3月17日出現流鼻水症狀，18日因出現咳嗽症狀，主動聯繫警政及衛生單位安排就醫後採檢通報。法國籍男性"
+    },
+    "108": {
+        "origin": "imported",
+        "confirmed_date": "3/19",
+        "age": "40",
+        "gender": "male",
+        "location": "3月14日跟團至奧地利、捷克",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月5日至3月14日跟團至奧地利、捷克旅遊（與案61、72同團）。案108於3月17日出現發燒症狀，由衛生單位安排就醫採檢通報。male"
+    },
+    "109": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "80",
+        "gender": "male",
+        "location": "3月7日曾去埃及參加團體",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "2月25日至3月7日曾去埃及參加團體旅遊，3月7日出現發燒，於今日確診。male"
+    },
+    "110": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "30",
+        "gender": "female",
+        "location": "法國、英國就學和",
+        "nationality": null,
+        "breakout": "study",
+        "description": "曾去法國、英國就學和旅遊，3月16日出現胸悶，於今日確診。female"
+    },
+    "111": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "50",
+        "gender": "female",
+        "location": "3月12日曾去埃及參加團體",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月3日至3月12日曾去埃及參加團體旅遊，3月15日出現發燒等症狀，於今日確診。female"
+    },
+    "112": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "20",
+        "gender": "female",
+        "location": "3月17日曾去法國",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月1日至3月17日曾去法國旅遊，3月13日出現喉嚨痛等病症，於今日確診。female"
+    },
+    "113": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "30",
+        "gender": "male",
+        "location": "3月6日曾去美國、墨西哥",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "2月23日至3月6日曾去美國、墨西哥旅遊，3月17日出現流鼻水等症狀，於今日確診。male"
+    },
+    "114": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "10",
+        "gender": "male",
+        "location": "西班牙、德國、英國",
+        "nationality": null,
+        "breakout": "go-abroad",
+        "description": "曾去西班牙、德國、英國比賽，3月17日出現頭痛等症狀，於今日確診。male"
+    },
+    "115": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "20",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "study",
+        "description": "2月9日至3月15日去波蘭遊學，3月17日出現咳嗽等症狀，於今日確診。female"
+    },
+    "116": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "20",
+        "gender": "female",
+        "location": "年9月15日至3月17日去英國",
+        "nationality": null,
+        "breakout": "study",
+        "description": "去年9月15日至3月17日去英國就學，3月12日出現咳嗽等症狀，於今日確診。female"
+    },
+    "117": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "40",
+        "gender": "male",
+        "location": "葡萄牙、西班牙",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "曾去葡萄牙、西班牙旅遊，3月14日出現腹瀉，於今日確診。male"
+    },
+    "118": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "30",
+        "gender": "female",
+        "location": "3月16日去美國",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月5日至3月16日去美國旅遊，為案85的出國同行友人，無症狀，於今日確診。female"
+    },
+    "119": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "60",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "visit",
+        "description": "1月15日至3月11日曾去美國探親，3月15日出現喉嚨痛等症狀，於今日確診。male"
+    },
+    "120": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "20",
+        "gender": "female",
+        "location": "年8月26日至3月18日去法國",
+        "nationality": null,
+        "breakout": "study",
+        "description": "去年8月26日至3月18日去法國就學，3月14日出現流鼻水等症狀，於今日確診。female"
+    },
+    "121": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "20",
+        "gender": "female",
+        "location": "3月16日去美國",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月5日至3月16日去美國旅遊，為案85的出國同行友人，3月18日出現流鼻水等症狀，於今日確診female"
+    },
+    "122": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "60",
+        "gender": "female",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月4日至3月13日至土耳其參加團體旅遊，3月18日出現腹瀉等症狀，於今日確診。female"
+    },
+    "123": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "40",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "work",
+        "description": "曾去新加坡、日本、美國洽公，3月18日出現倦怠等症狀，於今日確診。male"
+    },
+    "124": {
+        "origin": "domestic",
+        "confirmed_date": "3/20",
+        "age": "30",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "unknown",
+        "description": "無旅遊史，3月17日出現發燒等症狀，於今日確診，感染源待釐清。male"
+    },
+    "125": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "20",
+        "gender": "female",
+        "location": "荷蘭、奧地利",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "曾去荷蘭、奧地利旅遊，3月7日出現流鼻水、全身無力等病症，於今日確診。female"
+    },
+    "126": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "30",
+        "gender": "male",
+        "location": "3月16日至加拿大",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月4日至3月16日至加拿大旅遊，3月16日出現乾咳，於今日確診。male"
+    },
+    "127": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "20",
+        "gender": "male",
+        "location": "年9月14日至3月14日去西班牙",
+        "nationality": null,
+        "breakout": "study",
+        "description": "去年9月14日至3月14日去西班牙就學，3月12日出現鼻塞等症狀，於今日確診。male"
+    },
+    "128": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "20",
+        "gender": "female",
+        "location": "法國、盧森堡、比例時、德國",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "曾去法國、盧森堡、比例時、德國旅遊，3月5日出現喉嚨痛等症狀，於今日確診。female"
+    },
+    "129": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "40",
+        "gender": "male",
+        "location": "3月18日去美國",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月11日至3月18日去美國旅遊，3月16日出現發燒等症狀，於今日確診male"
+    },
+    "130": {
+        "origin": "domestic",
+        "confirmed_date": "3/20",
+        "age": "10",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": null,
+        "description": "無旅遊史，3月17日出現乾咳等症狀，於今日確診。female"
+    },
+    "131": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "40",
+        "gender": "female",
+        "location": "葡萄牙、西班牙參加團體",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "曾去葡萄牙、西班牙參加團體旅遊，3月14日出現喉嚨痛等病症，於今日確診。female"
+    },
+    "132": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "20",
+        "gender": "female",
+        "location": "3月18日至菲律賓",
+        "nationality": null,
+        "breakout": "work",
+        "description": "1月18日至3月18日至菲律賓工作，3月12日出現流鼻水等症狀，於今日確診。female"
+    },
+    "133": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "10",
+        "gender": "female",
+        "location": "3月14日到英國",
+        "nationality": null,
+        "breakout": "study",
+        "description": "1月3日至3月14日到英國就學，3月18日出現頭痛等病症，於今日確診。female"
+    },
+    "134": {
+        "origin": "domestic",
+        "confirmed_date": "3/20",
+        "age": "30",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "unknown",
+        "description": "無旅遊史，3月17日出現發燒等病症，於今日確診，感染源待釐清。female"
+    },
+    "135": {
+        "origin": "imported",
+        "confirmed_date": "3/20",
+        "age": "20",
+        "gender": "female",
+        "location": "美國",
+        "nationality": null,
+        "breakout": "go-abroad",
+        "description": "1月18日至3月13日前往美國，3月18日出現咳嗽症狀，於今日確診。female"
+    },
+    "136": {
+        "origin": "imported",
+        "confirmed_date": "3/21",
+        "age": "30",
+        "gender": "female",
+        "location": "土耳其",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "2月27日至3月8日跟團至土耳其旅遊，3月8日發病後自行就醫，於今日確診。female"
+    },
+    "137": {
+        "origin": "imported",
+        "confirmed_date": "3/21",
+        "age": "20",
+        "gender": "female",
+        "location": "19日至美國",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月5日至19日至美國旅遊，14日發病，19日返國時於機場欄檢，今日確診。female"
+    },
+    "138": {
+        "origin": "imported",
+        "confirmed_date": "3/21",
+        "age": "20",
+        "gender": "male",
+        "location": "3月16日赴法國",
+        "nationality": null,
+        "breakout": "study",
+        "description": "1月21日至3月16日赴法國就學，居家檢疫期間發病，於今日確診。male"
+    },
+    "139": {
+        "origin": "imported",
+        "confirmed_date": "3/21",
+        "age": "20",
+        "gender": "female",
+        "location": "英國",
+        "nationality": null,
+        "breakout": "study",
+        "description": "2019年4月赴英國就學，3月14日返國，17日發病後自行就醫，於今日確診。female"
+    },
+    "140": {
+        "origin": "domestic",
+        "confirmed_date": "3/21",
+        "age": "50",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "contact",
+        "description": "埃及旅遊團團員，原列為接觸者，居家隔離期間於3月18日發病，於今日確診。female"
+    },
+    "141": {
+        "origin": "imported",
+        "confirmed_date": "3/21",
+        "age": "20",
+        "gender": "female",
+        "location": "英國",
+        "nationality": null,
+        "breakout": "study",
+        "description": "2019年9月赴英國就學，3月17日發病，19日返國時於機場欄檢，於今日確診。female"
+    },
+    "142": {
+        "origin": "imported",
+        "confirmed_date": "3/21",
+        "age": "30",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "work",
+        "description": "2019年2月赴英國教會服務，3月13日發病，19日返國時於機場欄檢，於今日確診。female"
+    },
+    "143": {
+        "origin": "domestic",
+        "confirmed_date": "3/21",
+        "age": "50",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "案77親人、與案144為夫妻，長住捷克，與案77於3月7日至14日間自捷克赴美國探親，於3月14日發病，19日返國入境時由機場採檢送驗，於今日確診。male"
+    },
+    "144": {
+        "origin": "domestic",
+        "confirmed_date": "3/21",
+        "age": "30",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "family",
+        "description": "案77親人、與案143為夫妻，長住捷克，與案77於3月7日至14日間自捷克赴美國探親，於3月6日發病，19日返國入境時由機場採檢送驗，於今日確診。female"
+    },
+    "145": {
+        "origin": "imported",
+        "confirmed_date": "3/21",
+        "age": "20",
+        "gender": "female",
+        "location": "美自助",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月5日赴美自助旅遊，3月16日發病，19日返國時於機場欄檢，於今日確診。female"
+    },
+    "146": {
+        "origin": "imported",
+        "confirmed_date": "3/21",
+        "age": "50",
+        "gender": "male",
+        "location": "18日赴南非",
+        "nationality": null,
+        "breakout": "work",
+        "description": "3月9日至18日赴南非工作，3月18日發病，返國後自行就醫，於今日確診。male"
+    },
+    "147": {
+        "origin": "imported",
+        "confirmed_date": "3/21",
+        "age": "20",
+        "gender": "female",
+        "location": "印尼",
+        "nationality": null,
+        "breakout": "visit",
+        "description": "3月14日、15日至印尼參加婚禮，3月17日發病後自行就醫，於今日確診。印尼籍女性"
+    },
+    "148": {
+        "origin": "imported",
+        "confirmed_date": "3/21",
+        "age": "20",
+        "gender": "female",
+        "location": "3月15日至美國",
+        "nationality": null,
+        "breakout": "study",
+        "description": "1月24日至3月15日至美國就學，返國時與案85搭乘同班機，18日發病，於今天確診。female"
+    },
+    "149": {
+        "origin": "imported",
+        "confirmed_date": "3/21",
+        "age": "70",
+        "gender": "male",
+        "location": "14日跟團至英國",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "3月9日至14日跟團至英國旅遊，3月15日發病後自行就醫，於今日確診。male"
+    },
+    "150": {
+        "origin": "domestic",
+        "confirmed_date": "3/21",
+        "age": "20",
+        "gender": "male",
+        "location": "3月14日至英國就學，14日與案133一同返國，19日發病，於今日確診。因返台後",
+        "nationality": null,
+        "breakout": "family",
+        "description": "案133家人，1月14日至3月14日至英國就學，14日與案133一同返國，19日發病，於今日確診。因返台後活動史單純，研判於英國感染的可能性較高。male"
+    },
+    "151": {
+        "origin": "imported",
+        "confirmed_date": "3/21",
+        "age": "30",
+        "gender": "male",
+        "location": "14日到到荷蘭",
+        "nationality": null,
+        "breakout": "work",
+        "description": "3月8日出現症狀，3月10日至14日到到荷蘭工作，返台後自行就醫，於今日確診。male"
+    },
+    "152": {
+        "origin": "imported",
+        "confirmed_date": "3/21",
+        "age": "20",
+        "gender": "female",
+        "location": "英國",
+        "nationality": null,
+        "breakout": "study",
+        "description": "2019年7月赴英國就學，3月14日出現症狀，17日返國，於居家檢疫時發現，今日確診。female"
+    },
+    "153": {
+        "origin": "imported",
+        "confirmed_date": "3/21",
+        "age": "20",
+        "gender": "female",
+        "location": "法國",
+        "nationality": null,
+        "breakout": "study",
+        "description": "2019年12月赴法國就學，3月14日返國，18日發病，於居家檢疫時發現，今日確診。female"
+    },
+    "154": {
+        "origin": "imported",
+        "confirmed_date": "3/22",
+        "age": "30",
+        "gender": "male",
+        "location": "美國",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "境外移入，曾到美國旅遊，3月16日發病，3月17日通報，3月22日確診。出現肌肉痠痛、頭痛及喉嚨痛症狀，選擇自行就醫，與案85、118、121是同行者。male"
+    },
+    "155": {
+        "origin": "imported",
+        "confirmed_date": "3/22",
+        "age": "70",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "travel",
+        "description": "境外移入，有丹麥旅遊活動史，3月20日發病並且通報，3月22日確診。出現肌肉痠痛、發燒、全身倦怠症狀，X光片顯示為肺炎，目前居家檢疫中。male"
+    },
+    "156": {
+        "origin": "domestic",
+        "confirmed_date": "3/22",
+        "age": "20",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "unknown",
+        "description": "機構護理師，本土案例，3月12日自己覺得發燒未就醫，3月16日就醫返家，3月20日就醫採檢，21日確診，感染源待釐清。female"
+    },
+    "157": {
+        "origin": "imported",
+        "confirmed_date": "3/22",
+        "age": "20",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "travel",
+        "description": "境外移入，有紐西蘭旅遊活動史，3月18日發病，3月20日通報，3月22日確診。出現全身倦怠、胸痛及呼吸困難症狀，選擇自行就醫。male"
+    },
+    "158": {
+        "origin": "imported",
+        "confirmed_date": "3/22",
+        "age": "10",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "travel",
+        "description": "境外移入，有美國旅遊活動史，3月18日發病，3月20日通報，3月22日確診。出現全身倦怠、胸痛及呼吸困難症狀，選擇自行就醫。female"
+    },
+    "159": {
+        "origin": "imported",
+        "confirmed_date": "3/22",
+        "age": "60",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "travel",
+        "description": "境外移入，有美國旅遊活動史，3月18日發病，3月19日通報，3月22日確診。出現肌肉痠痛和流鼻水症狀，X光片顯示為肺炎，選擇自行就醫。male"
+    },
+    "160": {
+        "origin": "imported",
+        "confirmed_date": "3/22",
+        "age": "50",
+        "gender": "male",
+        "location": "10日赴美",
+        "nationality": null,
+        "breakout": "go-abroad",
+        "description": "境外移入，3月1日至10日赴美活動，3月14日發病、3月20日通報、3月22日確診，初步研判該案傳染給案124中研院人員。male"
+    },
+    "161": {
+        "origin": "imported",
+        "confirmed_date": "3/22",
+        "age": "60",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "travel",
+        "description": "案55埃及團同團，居家隔離期間於3月20日發病，經安排就醫及採檢通報，於今日確診。male"
+    },
+    "162": {
+        "origin": "imported",
+        "confirmed_date": "3/22",
+        "age": "60",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "travel",
+        "description": "案55埃及團同團，居家隔離期間於3月20日發病，經安排就醫及採檢通報，於今日確診。female"
+    },
+    "163": {
+        "origin": "imported",
+        "confirmed_date": "3/22",
+        "age": "20",
+        "gender": "female",
+        "location": "法國",
+        "nationality": null,
+        "breakout": "study",
+        "description": "境外移入，赴法國留學生，3月17日發病、3月20日通報、3月22日確診。female"
+    },
+    "164": {
+        "origin": "imported",
+        "confirmed_date": "3/22",
+        "age": "20",
+        "gender": "female",
+        "location": "菲律賓",
+        "nationality": null,
+        "breakout": "study",
+        "description": "境外移入，赴菲律賓留學生，3月13日發病、3月21日通報、3月22日確診。female"
+    },
+    "165": {
+        "origin": "imported",
+        "confirmed_date": "3/22",
+        "age": "20",
+        "gender": "female",
+        "location": "義大利",
+        "nationality": null,
+        "breakout": "study",
+        "description": "境外移入，赴義大利留學生，3月7日發病、3月19日通報、3月22日確診。female"
+    },
+    "166": {
+        "origin": "imported",
+        "confirmed_date": "3/22",
+        "age": "20",
+        "gender": "male",
+        "location": "德國",
+        "nationality": null,
+        "breakout": "travel",
+        "description": "境外移入，有德國旅遊史，3月17日發病、3月20日通報、3月22日確診。male"
+    },
+    "167": {
+        "origin": "imported",
+        "confirmed_date": "3/22",
+        "age": "10",
+        "gender": "male",
+        "location": "英國",
+        "nationality": null,
+        "breakout": "study",
+        "description": "境外移入，赴英國留學生，3月19日發病、3月20日通報、3月22日確診。male"
+    },
+    "168": {
+        "origin": "domestic",
+        "confirmed_date": "3/22",
+        "age": "30",
+        "gender": "male",
+        "location": null,
+        "nationality": null,
+        "breakout": "contact",
+        "description": "本土案例，案124中研院人員之接觸者，3月17日發病、3月20日通報、3月22日確診。male"
+    },
+    "169": {
+        "origin": "domestic",
+        "confirmed_date": "3/22",
+        "age": "30",
+        "gender": "female",
+        "location": null,
+        "nationality": null,
+        "breakout": "contact",
+        "description": "本土案例，案124中研院人員之接觸者，3月17日發病、3月20日通報、3月22日通報。female"
+    }
+}
